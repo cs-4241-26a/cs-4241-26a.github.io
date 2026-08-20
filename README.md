@@ -8,15 +8,19 @@ Unity Hall Room 420
 Course Staff
 ---
 *Instructor*: Charlie Roberts (@cdroberts)  
-*PLA*: Harrison DiAmbrosio Ndlovu (@hadiambrosio)  
+*PLA*: Harrison DiAmbrosio (@hadiambrosio)  
 *PLA*: Cole Golding (@cmgolding)  
 *PLA*: Keagan Hitt (@kjhitt)  
 *PLA*: Anastasios Pagiatakis (@ajpagiatakis)
 
 Office Hours
 ---
-
+- Monday: 5-7 w/ Harrison (in Discord)
+- Wednesday: 11-1 and 4-6 w/ Harrison
+- Thursday: 2-4 w/ Harrison
 - Friday: 10AM - 12PM w/Charlie in FL B20
+
+Office hours will be announced on Discord immediately prior to beginning. For office hours with course PLAs the location will default to Fuller Labs A22.
 
 All course staff will also spend time on Discord answering questions asynchronously. Whenever possible, please post questions *publicly* in Discord so everyone can learn from the answers... and there's a good chance students in the class might be able to help with technical questions as well. My in-person office hours are from 10AM-12PM on Friday, in Fuller Labs B20... please stop by! Some good reasons to stop by in-person office hours include:
 
