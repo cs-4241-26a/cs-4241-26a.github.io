@@ -105,34 +105,24 @@ You can turn in one assignment late during the course of the term; please DM the
 
 Unless otherwise noted, meeting the minimum requirements for an assignment will earn a B (86%).
 
-You may earn up to additional 20 points via achievements from the following categories:
+You may earn up to additional 20 points via optional achievements from the following categories:
 - Design for *Efficiency*
 - Design for *Accessibility*
 - Design for *Privacy*
 - Design for *Fun*
 
-Some assignments will have achievements from all four categories, some might have acheivements from only 
-two or three. They are an opportunity for you to take an active role in your learning and assessment.  
+Some assignments will have achievements from all four categories, some might have achievements from only 
+two or three. They are an opportunity for you to take an active role in your learning and assessment; 
+you get to choose which achievements are most interesting to complete.
 Achievement points can both boost your grade up to an A and also make up for points 
 that you might have lost in regards to the minimum requirements for an assignment.
 
 For example, say your base grade was an 80%, which would mean that you were docked 6% off the minimum assignment requirements. 
-If you then completed 10 points of acheivements, you would receive an 90% (A) on the assignment. If you completed all 20 acheivement points, you would still get a 100%, even after missing some points on the primary assignment requirements.
+If you then completed 10 points of achievements, you would receive an 90% (A) on the assignment. If you completed all 20 achievement points, you would still get a 100%, even after missing some points on the primary assignment requirements.
 *The maximum grade for any one assignment is 100%*, even if you get a perfect score on the minimum requirements and all achievements.
 
-A technical achievement might be: substantial additions to the assignment requirements, a particularly robust algorithm, 
-non-trivial use of recommended frameworks and libraries.
-
-A design/evaluation achievement might be: complex interactive functionality, 
-animations, styling that is *objectively* "more usable" than the minimum requirements, and evaluation activities such as completing a task-based user analysis,
-writing up the results, and using the results to justify (usually small) changes to your application.
-
 *The success of your assignment achievements depends on how well you describe them in your README.*
-Well formatted text, images, and concise and clear descriptions are helpful. Every README must include a Technical Achievements and Design/Usability Achievements section, even if none are attempted.
-
-The best strategy is usually to include both types of achievements in your project scope.
-It's rare for someone to get all 10 points of one type, but common for someone to play to their strengths on one side, 
-and try a few different things on the other side.
+Well formatted text, images, and concise and clear descriptions are helpful. Every README must include an Achievements section, even if none are attempted.
 
 Make sure any frameworks and libraries you choose to employ **do not** interfere with the underlying intellectual challenge of the assignment. 
 If I ask you to write a HTTP server and you use a package that provides a server in one line of code, 
@@ -144,9 +134,9 @@ Academic Integrity
 In this class, students may not look at any previous versions of a course assignment or project, regardless of how it is posted. 
 
 Students are likewise forbidden from facilitating other students, current or future, in plagiarism or cheating. 
-Collaboration is, however, encouraged in this class. There are many ways in which you can assist your fellow students without giving them code and answers.
+However, collaboration is encouraged in this class. There are many ways in which you can assist your fellow students without giving them code and answers.
 Please feel free to answer low-level coding questions and to help your classmates troubleshoot their code.
-But do not provide significant chunks of code; for example, providing an entire server that you've written is not allowed. i
+But do not provide significant chunks of code; for example, providing an entire server that you've written is not allowed.
 We highly encourage everyone to spend time in the course Discord server, both asking and answering questions about any topics from the course.
 
 LLM Use
