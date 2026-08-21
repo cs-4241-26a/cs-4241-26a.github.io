@@ -109,14 +109,7 @@ You can turn in one assignment late during the course of the term; please DM the
 
 Unless otherwise noted, meeting the minimum requirements for an assignment will earn a B (86%).
 
-You may earn up to additional 20 points via optional achievements from the following categories:
-- Design for *Efficiency*
-- Design for *Accessibility*
-- Design for *Privacy*
-- Design for *Fun*
-
-Some assignments will have achievements from all four categories, some might have achievements from only 
-two or three. They are an opportunity for you to take an active role in your learning and assessment; 
+You may earn up to additional 20 points via optional achievements from either *technical* or *design* achievements. They are an opportunity for you to take an active role in your learning and assessment; 
 you get to choose which achievements are most interesting to complete.
 Achievement points can both boost your grade up to an A and also make up for points 
 that you might have lost in regards to the minimum requirements for an assignment.
@@ -145,10 +138,7 @@ We highly encourage everyone to spend time in the course Discord server, both as
 
 LLM Use
 ---
-The use of LLMs for significant code generation is not allowed, and any minor use of LLMs should be disclosed in the README of individual assignments. 
-This class is an opportunity to learn the underlying technologies of the web, please don't use shortcuts that don't involve research (looking up how to do things online) 
-or collaboration (reaching out to fellow students and course staff for help). If you have questions about what would cross the line on LLM use, please ask
-in the Discord.
+The use of LLMs for significant code generation is not allowed, and any minor use of LLMs (code completion etc.) should be disclosed in the README of individual assignments. This class is an opportunity to learn the underlying technologies of the web, please don't use shortcuts that don't involve research (looking up how to do things online) or collaboration (reaching out to fellow students and course staff for help). If you have questions about what would cross the line on LLM use, please ask in the Discord.
 
 Acknowledgements
 ---
