@@ -15,9 +15,10 @@ Course Staff
 
 Office Hours
 ---
-- Monday: 5-7 w/ Harrison (in Discord)
+- Monday: 2-4 w/Cole, 5-7 w/ Harrison (in Discord)
+- Tuesday: 12-2 w/Cole
 - Wednesday: 11-1 and 4-6 w/ Harrison
-- Thursday: 2-4 w/ Harrison
+- Thursday: 12-2 w/Cole, 2-4 w/ Harrison, 4-6 w/Cole (in Discord)
 - Friday: 10AM - 12PM w/Charlie in FL B20
 
 Office hours will be announced on Discord immediately prior to beginning. For office hours with course PLAs the location will default to Fuller Labs A22.
