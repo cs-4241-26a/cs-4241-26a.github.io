@@ -16,6 +16,7 @@ Readings:
 - [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md), chapter 3 (due 09-1)
 - [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) (due 09-1)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)(due 09-01)
+- [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)(due 09-4)
 - [Responsive Web Design with HTML5 and CSS](https://learning.oreilly.com/library/view/responsive-web-design/9781839211560/) chapters 4 and 6 (due 09-4) 
 
 Play:  
