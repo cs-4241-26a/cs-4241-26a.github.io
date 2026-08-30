@@ -15,9 +15,9 @@ Course Staff
 
 Office Hours
 ---
-- Monday: 2-4 w/Cole, 5-7 w/ Harrison (in Discord)
+- Monday: 2-4 w/Cole, 7-9 w/ Harrison (in Discord)
 - Tuesday: 12-2 w/Cole
-- Wednesday: 11-1 and 4-6 w/ Harrison
+- Wednesday: 10-12 and 4-6 w/ Harrison
 - Thursday: 12-2 w/Cole, 2-4 w/ Harrison, 4-6 w/Cole (in Discord)
 - Friday: 10AM - 12PM w/Charlie in FL B20
 
