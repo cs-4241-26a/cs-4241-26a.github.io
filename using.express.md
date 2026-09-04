@@ -80,7 +80,8 @@ const middleware_post = ( req, res, next ) => {
   })
 }
 
-app.use( middleware_post )
+app.use( express.static('./') )
+app.post( '/submit', middleware_post )
 
 app.post( '/submit', ( req, res ) => {
   // our request object now has a 'json' field in it from our previous middleware
@@ -91,7 +92,7 @@ app.post( '/submit', ( req, res ) => {
 const listener = app.listen( process.env.PORT || 3000 )
 ```
 
-Let's just test this file from the developer's console. Make sure to open the console in a new preview window.
+Create a simple index.html page and place it in the same directory as the server. With the server running, visit http://localhost:3000. You should see the HTML page. Now try sending a fetch request to the server.
 
 ```js
 // run in developer's console
