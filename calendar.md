@@ -29,7 +29,7 @@ Topic: Server Frameworks, Databases, and Design
 [FINAL PROJECT](https://github.com/cs-4241-26a/finalproject/blob/main/README.md) Submit proposals by 9/18 end-of-day  
 Development Assignment: [A3](https://github.com/cs-4241-26a/a3-persistence/) (due 9/15)  
 Readings:  
-- [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936732229904746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Robin%20Williams) (due 9-8)
+- [Chapters 1–6 of the Non-Designer's Design Book](https://learning.oreilly.com/library/view/the-non-designers-design/9780321563088/ch01.html#ch01lev1sec1) (due 9-8)
 - [Using the Chrome debugger](https://developer.chrome.com/docs/devtools/javascript/) (due 9-8)
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/) (due 9-11)
 - [JavaScript Promises in Sixteen Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887) (due 9-11)
