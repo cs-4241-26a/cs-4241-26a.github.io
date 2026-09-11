@@ -19,7 +19,7 @@ Office Hours
 - Tuesday: 12-2 w/Cole
 - Wednesday: 10-12 and 4-6 w/ Harrison
 - Thursday: 12-2 w/Cole, 2-4 w/ Harrison, 4-6 w/Cole (in Discord)
-- Friday: 10AM - 12PM w/Charlie in FL B20
+- Friday: 11AM - 1PM w/Charlie in FL B20
 
 Office hours will be announced on Discord immediately prior to beginning. For office hours with course PLAs the location will default to Fuller Labs A22.
 
