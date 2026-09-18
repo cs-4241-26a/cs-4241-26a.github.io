@@ -244,7 +244,7 @@ player.connect( ctx.destination )
   * You can add a --cors flag with the http-server module for testing, or to use
     express middleware: https://medium.com/@alexishevia/using-cors-in-express-cac7e29b005b
     
-Here's a super simmple server with CORS enabled:
+Here's a super simple server with CORS enabled:
 ```js
 const express = require('express'),
       app     = express(),
@@ -261,10 +261,6 @@ app.listen( 3000 )
 audioElement.src = 'media/somefile.mp3'
 audioElement.play()
 ```
-
-One last gotcha to  note... if you're using Glitch to host your project, you need to change the [crossOrigin property](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/crossorigin) to load audiofiles from Glitch's asset server:
-
-`audioElement.crossOrigin = 'anonymous'`
 
 ### All together now...
 
@@ -293,9 +289,9 @@ One last gotcha to  note... if you're using Glitch to host your project, you nee
     player.connect( audioCtx.destination )
     player.connect( analyser )
 
-    // make sure, for this example, that your audiofle is accesssible
+    // make sure, for this example, that your audiofile is accessible
     // from your server's root directory... here we assume the file is
-    // in the ssame location as our index.html file
+    // in the same location as our index.html file
     audioElement.src = './trumpet.wav'
     audioElement.play()
 
