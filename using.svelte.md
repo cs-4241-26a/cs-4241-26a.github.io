@@ -1,15 +1,13 @@
 # Server
-The demo server for this example code has three routes to read, add, and update todos that are stored in memory. 
-We'll use an [express+svelte boilerplate project](https://github.com/dj0nny/svelte-express-boilerplate) to get everything
-started; follow the instructions on that website to set it up. Once you've done so, the express server is found at in the
-`src/index.js` file. Replace this file with the server below; it's almost identical to the one found in the React tutorial for this
-class except it doesn't call Vite explicitly. The boilerplate handles that for us. You might need to install `cors` but the boilerplate project
-should take care of it.
+To setup this project:
+- Run `npm init vite` and make a new Svelte + JavaScript project.
+- `cd` into the new directory, and run `npm install` to get all the Vite dependencies
+- Get our express / websocket dependencies: `npm install express vite-express`
 
 ```js
 const express = require('express')
 const cors    = require('cors')
-
+const ViteExpress = require('vite-express')
 const app = express()
 
 const todos = [
@@ -40,7 +38,7 @@ app.post( '/change', function( req,res ) {
   res.sendStatus( 200 )
 })
 
-app.listen( process.env.PORT || 3000 )
+ViteExpress.listen( app, process.env.PORT || 3000 )
 ```
 
 
